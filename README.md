@@ -1,185 +1,221 @@
+<!-- ============================================================ -->
+<!--                    HEADER / HERO SECTION                     -->
+<!-- ============================================================ -->
+
 <div align="center">
 
-<!-- ============== ANIMATED HEADER BANNER ============== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=timeGradient&height=300&section=header&text=Litongle&fontSize=90&fontColor=ffffff&fontAlignY=45&desc=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91%E8%80%85%20%C2%B7%20%E5%BC%80%E6%BA%90%E7%88%B1%E5%A5%BD%E8%80%85%20%C2%B7%20%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0%E8%80%85&descSize=18&descColor=ffffff&descAlignY=65&animation=fadeIn&stroke=00000000" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=220&section=header&text=Hi%20there%20%F0%9F%91%8B%20I'm%20Litongle&fontSize=42&fontColor=58a6ff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast%20%7C%20Lifelong%20Learner&descSize=16&descColor=8b949e&descAlignY=55&animation=fadeIn" />
-
-<!-- ============== TYPING SVG ============== -->
-
+<!-- 打字动画 -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%E2%9C%A8+Building+the+future+with+code;%F0%9F%9A%80+Passionate+about+Web+%26+Software+Development;%F0%9F%8C%8D+Contributing+to+Open+Source+Community" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=28&duration=3000&pause=800&color=70A5FD&center=true&vCenter=true&repeat=true&width=680&height=70&lines=%E2%9C%A8+%E7%94%A8%E4%BB%A3%E7%A0%81%E6%9E%84%E5%BB%BA%E6%9C%AA%E6%9D%A5%EF%BC%8C%E7%94%A8%E7%83%AD%E7%88%B1%E9%A9%B1%E5%8A%A8%E5%88%9B%E6%96%B0;%F0%9F%9A%80+%E6%8E%A2%E7%B4%A2+Web+%E4%B8%8E%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E7%9A%84%E6%97%A0%E9%99%90%E5%8F%AF%E8%83%BD;%F0%9F%8C%8F+%E6%8B%A5%E6%8A%B1%E5%BC%80%E6%BA%90%EF%BC%8C%E4%B8%8E%E4%B8%96%E7%95%8C%E5%90%8C%E8%A1%8C" alt="Typing SVG" />
 </a>
-
-<!-- ============== PROFILE VIEWS & SOCIAL BADGES ============== -->
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=litongle&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-&nbsp;
+<!-- 计数器与社交徽章 -->
+<img src="https://komarev.com/ghpvc/?username=litongle&label=%E8%AE%BF%E9%97%AE%E9%87%8F&color=70a5fd&style=flat-square" alt="访问量" />
+&ensp;
 <a href="https://github.com/litongle?tab=followers">
-  <img src="https://img.shields.io/github/followers/litongle?label=Followers&style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/followers/litongle?label=%E5%85%B3%E6%B3%A8%E8%80%85&style=flat-square&color=70a5fd&labelColor=1a1b27" alt="关注者"/>
 </a>
-&nbsp;
+&ensp;
 <a href="https://github.com/litongle?tab=repositories&sort=stargazers">
-  <img src="https://img.shields.io/github/stars/litongle?label=Stars&style=for-the-badge&color=daa520&labelColor=b8860b&logo=github" alt="GitHub Stars"/>
+  <img src="https://img.shields.io/github/stars/litongle?label=%E8%8E%B7%E6%98%9F&style=flat-square&color=e8b839&labelColor=1a1b27" alt="获星"/>
 </a>
 
 </div>
 
----
+<br/>
 
-<!-- ============== ABOUT ME SECTION ============== -->
+<!-- ============================================================ -->
+<!--                       关于我                                  -->
+<!-- ============================================================ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">&ensp;关于我
 
-<img align="right" alt="Coding" width="320" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```yaml
+name: Litongle
+located_in: 中国
+role: 全栈开发者
+currently_learning:
+  - HTML / CSS / JavaScript
+  - Java & Spring Boot
+  - Python & Flask
+interests:
+  - Web 应用开发
+  - 后端架构设计
+  - 开源项目贡献
+  - 云原生技术
+hobbies:
+  - 编程
+  - 技术写作
+  - 探索新技术
+motto: "代码改变世界，热爱驱动成长"
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
 <br/>
 
-- **Passionate Developer** dedicated to building elegant and efficient solutions
-- Currently deepening expertise in **HTML / Java / Python**
-- Exploring **Full Stack Development** and **Cloud Architecture**
-- Firm believer in **clean code**, **continuous learning**, and **open collaboration**
-- Always open to interesting projects and collaboration opportunities
+> ***"优秀的代码是写给人看的，顺便能在机器上运行。"***
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-> *"The only way to do great work is to love what you do."* — Steve Jobs
+<!-- ============================================================ -->
+<!--                       技术栈                                  -->
+<!-- ============================================================ -->
 
-<br clear="both"/>
-
----
-
-<!-- ============== TECH STACK SECTION ============== -->
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> &nbsp;Tech Stack & Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30">&ensp;技术栈
 
 <div align="center">
 
-### Languages
+<table>
+<tr>
+<td align="center" width="33%">
+
+**编程语言**
+
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![Languages](https://skillicons.dev/icons?i=python,java,js,html,css,mysql&perline=3)](https://skillicons.dev)
 
-### Frameworks & Libraries
+</td>
+<td align="center" width="33%">
+
+**框架与库**
+
 <br/>
 
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+[![Frameworks](https://skillicons.dev/icons?i=spring,react,nodejs,flask,bootstrap,vue&perline=3)](https://skillicons.dev)
 
-### Tools & Platforms
+</td>
+<td align="center" width="33%">
+
+**工具与平台**
+
 <br/>
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+[![Tools](https://skillicons.dev/icons?i=git,docker,linux,vscode,github,idea&perline=3)](https://skillicons.dev)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- 技能熟练度 -->
+<details>
+<summary><b>📊 技能熟练度</b></summary>
+<br/>
+
+| 技能领域 | 熟练度 | 等级 |
+|:--------:|:------:|:----:|
+| **前端开发** | `████████████████████░░░░░` | 80% |
+| **后端开发** | `██████████████████░░░░░░░` | 72% |
+| **Python** | `████████████████████░░░░░` | 80% |
+| **Java** | `██████████████████░░░░░░░` | 72% |
+| **数据库** | `███████████████░░░░░░░░░░` | 60% |
+| **DevOps** | `████████████░░░░░░░░░░░░░` | 48% |
+
+</details>
 
 </div>
 
 <br/>
 
-<!-- ============== SKILL RADAR CHART ============== -->
+<!-- ============================================================ -->
+<!--                     GitHub 数据面板                            -->
+<!-- ============================================================ -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&ensp;GitHub 数据面板
 
 <div align="center">
 
-### Skill Proficiency
-
-```
-  Frontend  ████████████████░░░░  80%
-  Backend   ██████████████░░░░░░  70%
-  Python    ████████████████░░░░  80%
-  Java      ██████████████░░░░░░  70%
-  DevOps    ██████████░░░░░░░░░░  50%
-  Database  ████████████░░░░░░░░  60%
-```
-
-</div>
-
----
-
-<!-- ============== GITHUB STATS SECTION ============== -->
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/litongle">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=litongle&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litongle&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
+<!-- 统计卡片 - 深色/浅色自适应 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=litongle&show_icons=true&hide_border=true&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&ring_color=70a5fd&count_private=true&include_all_commits=true&locale=cn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=litongle&show_icons=true&hide_border=true&bg_color=00000000&title_color=0969da&icon_color=8250df&text_color=1f6feb&ring_color=0969da&count_private=true&include_all_commits=true&locale=cn" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=litongle&show_icons=true&hide_border=true&bg_color=00000000&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&ring_color=70a5fd&count_private=true&include_all_commits=true&locale=cn" alt="GitHub 统计"/>
+</picture>
+&ensp;
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=litongle&layout=compact&hide_border=true&bg_color=00000000&title_color=70a5fd&text_color=38bdae&langs_count=8&locale=cn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=litongle&layout=compact&hide_border=true&bg_color=00000000&title_color=0969da&text_color=1f6feb&langs_count=8&locale=cn" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=litongle&layout=compact&hide_border=true&bg_color=00000000&title_color=70a5fd&text_color=38bdae&langs_count=8&locale=cn" alt="常用语言"/>
+</picture>
 
 <br/><br/>
 
-<!-- Streak Stats -->
-<a href="https://github.com/litongle">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=litongle&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" alt="GitHub Streak"/>
-</a>
+<!-- 连续贡献 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=litongle&hide_border=true&background=00000000&stroke=30363d&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=38bdae&currStreakNum=38bdae&sideNums=38bdae&dates=8b949e&locale=zh_Hans" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=litongle&hide_border=true&background=00000000&stroke=d0d7de&ring=0969da&fire=8250df&currStreakLabel=0969da&sideLabels=1f6feb&currStreakNum=1f6feb&sideNums=1f6feb&dates=656d76&locale=zh_Hans" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=litongle&hide_border=true&background=00000000&stroke=30363d&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd&sideLabels=38bdae&currStreakNum=38bdae&sideNums=38bdae&dates=8b949e&locale=zh_Hans" alt="连续贡献"/>
+</picture>
 
 <br/><br/>
 
-<!-- Activity Graph -->
-<a href="https://github.com/litongle">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=litongle&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Activity" alt="Activity Graph"/>
-</a>
-
-</div>
-
----
-
-<!-- ============== PROJECTS SECTION ============== -->
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="28"> &nbsp;Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/litongle/litongle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=litongle&repo=litongle&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" />
-</a>
+<!-- 活动图 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=litongle&bg_color=00000000&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&custom_title=%E8%BF%91%E6%9C%9F%E8%B4%A1%E7%8C%AE%E6%B4%BB%E5%8A%A8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=litongle&bg_color=00000000&color=0969da&line=8250df&point=1f6feb&area=true&area_color=0969da&hide_border=true&custom_title=%E8%BF%91%E6%9C%9F%E8%B4%A1%E7%8C%AE%E6%B4%BB%E5%8A%A8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=litongle&bg_color=00000000&color=70a5fd&line=bf91f3&point=38bdae&area=true&area_color=70a5fd&hide_border=true&custom_title=%E8%BF%91%E6%9C%9F%E8%B4%A1%E7%8C%AE%E6%B4%BB%E5%8A%A8" alt="贡献活动"/>
+</picture>
 
 </div>
 
 <br/>
 
-<div align="center">
+<!-- ============================================================ -->
+<!--                       成长之路                                -->
+<!-- ============================================================ -->
 
-| Project | Description | Tech Stack |
-|:-------:|:-----------:|:----------:|
-| **Profile Page** | This GitHub profile README | `Markdown` `HTML` `SVG` |
-| *More coming soon...* | *Stay tuned for exciting projects!* | - |
-
-</div>
-
----
-
-<!-- ============== EXPERIENCE & EDUCATION SECTION ============== -->
-
-## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="28"> &nbsp;Journey & Growth
+## <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">&ensp;成长之路
 
 <div align="center">
 
 ```mermaid
-timeline
-    title My Development Journey
-    section Learning Phase
-        HTML & CSS : Started web development fundamentals
-        JavaScript  : Built interactive web pages
-    section Skill Expansion
-        Python      : Explored scripting and automation
-        Java        : Learned OOP and enterprise development
-    section Current Focus
-        Full Stack  : Building end-to-end applications
-        Open Source : Contributing to the community
+graph LR
+    A["🌱 入门阶段"] --> B["🔥 技能拓展"]
+    B --> C["🚀 当前聚焦"]
+    C --> D["🌟 未来方向"]
+
+    A -.- A1["HTML & CSS\n网页开发基础"]
+    A -.- A2["JavaScript\n交互与动态效果"]
+
+    B -.- B1["Python\n脚本与自动化"]
+    B -.- B2["Java\nOOP 与企业开发"]
+
+    C -.- C1["全栈开发\n端到端应用"]
+    C -.- C2["开源贡献\n社区协作"]
+
+    D -.- D1["云原生\n容器与微服务"]
+    D -.- D2["AI / ML\n智能应用探索"]
+
+    style A fill:#1a1b27,stroke:#70a5fd,color:#70a5fd
+    style B fill:#1a1b27,stroke:#bf91f3,color:#bf91f3
+    style C fill:#1a1b27,stroke:#38bdae,color:#38bdae
+    style D fill:#1a1b27,stroke:#e8b839,color:#e8b839
+    style A1 fill:#0d1117,stroke:#70a5fd,color:#c9d1d9
+    style A2 fill:#0d1117,stroke:#70a5fd,color:#c9d1d9
+    style B1 fill:#0d1117,stroke:#bf91f3,color:#c9d1d9
+    style B2 fill:#0d1117,stroke:#bf91f3,color:#c9d1d9
+    style C1 fill:#0d1117,stroke:#38bdae,color:#c9d1d9
+    style C2 fill:#0d1117,stroke:#38bdae,color:#c9d1d9
+    style D1 fill:#0d1117,stroke:#e8b839,color:#c9d1d9
+    style D2 fill:#0d1117,stroke:#e8b839,color:#c9d1d9
 ```
 
 </div>
@@ -190,101 +226,115 @@ timeline
 <tr>
 <td width="50%" valign="top">
 
-### Current Focus
-- Web Application Development
-- Backend Systems with Java & Python
-- Database Design & Optimization
-- RESTful API Development
+### 🎯 当前聚焦
+
+<ul>
+  <li>Web 全栈应用开发</li>
+  <li>Java & Python 后端系统</li>
+  <li>数据库设计与性能优化</li>
+  <li>RESTful API 架构设计</li>
+</ul>
 
 </td>
 <td width="50%" valign="top">
 
-### Learning Roadmap
-- Cloud Services (AWS / Azure)
-- Containerization & CI/CD
-- Microservices Architecture
-- Machine Learning Basics
+### 🗺️ 学习路线
+
+<ul>
+  <li>云服务（阿里云 / AWS）</li>
+  <li>容器化与 CI/CD 流水线</li>
+  <li>微服务架构实践</li>
+  <li>机器学习与 AI 入门</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-<!-- ============== CONTRIBUTION SNAKE ============== -->
+<!-- ============================================================ -->
+<!--                    贡献动画 (贪吃蛇)                          -->
+<!-- ============================================================ -->
 
-## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="28"> &nbsp;Contribution Graph
+## <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="30">&ensp;贡献图动画
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img alt="贡献图贪吃蛇动画" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </picture>
 
 </div>
 
----
+<br/>
 
-<!-- ============== TROPHY SECTION ============== -->
+<!-- ============================================================ -->
+<!--                       荣誉奖杯                                -->
+<!-- ============================================================ -->
 
 <div align="center">
 
-<a href="https://github.com/litongle">
-  <img src="https://github-profile-trophy.vercel.app/?username=litongle&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=litongle&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=litongle&theme=flat&no-frame=true&no-bg=true&margin-w=10&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=litongle&theme=darkhub&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub 奖杯"/>
+</picture>
 
 </div>
 
----
+<br/>
 
-<!-- ============== CONNECT SECTION ============== -->
+<!-- ============================================================ -->
+<!--                       联系方式                                -->
+<!-- ============================================================ -->
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;Let's Connect
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">&ensp;联系方式
 
 <div align="center">
 
 <a href="https://github.com/litongle" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-litongle-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-&nbsp;
-<img src="https://img.shields.io/badge/WeChat-LTLGHS-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
-&nbsp;
+&ensp;
+<img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-LTLGHS-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="微信"/>
+&ensp;
 <img src="https://img.shields.io/badge/QQ-627131416-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white" alt="QQ"/>
 
 <br/><br/>
 
-**Collaboration is always welcome! Feel free to reach out.**
+**欢迎交流合作！有任何想法或项目，随时联系我。**
 
 </div>
-
----
-
-<!-- ============== RANDOM DEV QUOTE ============== -->
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote"/>
-
-</div>
-
----
-
-<!-- ============== FOOTER ============== -->
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:0d1117&height=120&section=footer" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square" alt="Made with Love"/>
-&nbsp;
-<img src="https://img.shields.io/badge/Powered%20by-GitHub-181717?style=flat-square&logo=github" alt="Powered by GitHub"/>
+<!-- ============================================================ -->
+<!--                       每日一言                                -->
+<!-- ============================================================ -->
 
-<br/><br/>
+<div align="center">
 
-*If you find my work interesting, consider giving a star!*
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="开发者名言"/>
+
+</div>
+
+<br/>
+
+<!-- ============================================================ -->
+<!--                         页脚                                  -->
+<!-- ============================================================ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&animation=twinkling" />
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/%E7%94%A8%E2%9D%A4%EF%B8%8F%E5%88%B6%E4%BD%9C-ff6b6b?style=flat-square" alt="用心制作"/>
+&ensp;
+<img src="https://img.shields.io/badge/GitHub-%E9%A9%B1%E5%8A%A8-181717?style=flat-square&logo=github" alt="GitHub 驱动"/>
+
+*如果你觉得不错，欢迎点个 ⭐ 支持一下！*
 
 </div>
